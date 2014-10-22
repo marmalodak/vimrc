@@ -8,7 +8,8 @@ set nocompatible
 filetype off
 
 set rtp+=/usr/lib/python2.7/site-packages/powerline/bindings/vim
-set rtp+=~/.vim/bundle/vundle/
+" set rtp+=~/.vim/bundle/vundle/
+set rtp+=~/.vim/bundle/Vundle.vim
 call vundle#rc()
 
 " let Vundle manage Vundle
